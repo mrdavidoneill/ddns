@@ -7,10 +7,10 @@ https://www.namecheap.com/support/knowledgebase/article.aspx/43/11/how-do-i-set-
 
 ## Installation
 
-### Pull from git
+### Clone from git
 
 - Navigate to `/home/<USERNAME>/cronjobs/`
-- `git pull https://github.com/mrdavidoneill/ddns.git`
+- `git clone https://github.com/mrdavidoneill/ddns.git`
 
 ### Add .env file
 
