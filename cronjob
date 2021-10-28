@@ -7,4 +7,4 @@
 # │ │ │ │ │
 # │ │ │ │ │
 # * * * * *  command_to_execute
-*/5 * * * * /home/<USERNAME>/Cronjobs/ddns/env/bin/python /home/<USERNAME>/Cronjobs/ddns/run.py
+*/5 * * * * /home/<USERNAME>/cronjobs/ddns/env/bin/python /home/<USERNAME>/cronjobs/ddns/run.py
