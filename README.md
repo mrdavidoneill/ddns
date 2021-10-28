@@ -11,6 +11,18 @@ https://www.namecheap.com/support/knowledgebase/article.aspx/43/11/how-do-i-set-
 
 - Navigate to `/home/<USERNAME>/cronjobs/`
 - `git clone https://github.com/mrdavidoneill/ddns.git`
+- `cd ddns`
+
+### Setup virtual environment
+
+- If pip not installed, `sudo apt install python3-pip`
+- If virtualenv not installed, `python3 -m pip install --user virtualenv`
+- `python3 -m virtualenv env`
+- `source env/bin/activate`
+
+### Install requirements
+
+- `pip install -r requirements.txt`
 
 ### Add .env file
 
